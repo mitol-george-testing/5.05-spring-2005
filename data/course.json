@@ -1,0 +1,27 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Chemistry",
+      "Inorganic Chemistry"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "a4c23312-835a-3760-22ef-2a8b1e76c45b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Principles of Inorganic Chemistry III",
+  "course_description": "This course covers the principles of main group (s and p block) element chemistry with an emphasis on synthesis, structure, bonding, and reaction mechanisms.\n",
+  "department_numbers": [
+    "5"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "5.05",
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
